@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.quantumvista.zarya",
+    "sha256_cert_fingerprints": ["45:DC:50:E4:2C:95:19:C0:50:21:C7:0F:BC:9F:06:51:2C:FC:52:C9:9D:DF:3E:C0:6E:AE:8C:0A:27:0A:6A:E0"]
+  }
+}]
