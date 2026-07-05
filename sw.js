@@ -1,4 +1,4 @@
-const CACHE_NAME = 'zarya-cache-v3';
+const CACHE_NAME = 'zarya-cache-v4';
 const ASSETS = [
   './',
   './index.html',
